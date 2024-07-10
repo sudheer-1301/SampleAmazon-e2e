@@ -14,7 +14,7 @@ step 4: Click on Stert E2E Testing on <browser>
 
 step 5: Click on spec.cy.js 
 
-From Command Line Interface Use below command
+# From Command Line Interface Use below command
 
 # Using Headed mode(browser -> Chrome)
 
