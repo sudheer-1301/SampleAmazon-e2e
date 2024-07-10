@@ -1,6 +1,7 @@
 ﻿# SampleAmazon-e2e
 
-From Graphical User Interface
+#From Graphical User Interface
+
 to run cypress use below commands 
 
 step 1: npx cypress open
@@ -15,11 +16,11 @@ step 5: Click on spec.cy.js
 
 From Command Line Interface Use below command
 
-Using Headed mode(browser -> Chrome)
+#Using Headed mode(browser -> Chrome)
 
 npx cypress run --spec cypress/e2e/spec.cy.js --browser chrome --headed
 
-Using Headless mode
+#Using Headless mode
 
 npx cypress run --spec cypress/e2e/spec.cy.js --browser chrome 
 
