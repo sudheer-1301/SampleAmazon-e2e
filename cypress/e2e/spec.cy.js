@@ -1,4 +1,4 @@
-//Implementing end to end testing of buying an red iphone 15 plus 128 gb on amazon
+//Implementing end to end testing of buying an red iphone 15 plus  & iPhone 14 plus 128 gb on amazon
 const baseURL = 'https://amazon.in'
 const searchField = '#twotabsearchtextbox'
 const capacityCheckbox = '.a-size-base.a-color-base' 
